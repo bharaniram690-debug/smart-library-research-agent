@@ -1,0 +1,11 @@
+# Core Application & UI
+streamlit>=1.30.0
+
+# HTTP Requests & Networking
+requests>=2.31.0
+
+# Environment Configuration
+python-dotenv>=1.0.0
+
+# Automated Testing
+pytest>=7.4.0
